@@ -2,7 +2,7 @@ title = "This is going to be Awesome!"
 baseURL = "/hugo-website"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
-themesDir = "themes"
+themesDir = "themess"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
