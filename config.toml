@@ -1,5 +1,5 @@
 title = "This is going to be Awesome!"
-baseURL = "/"themesDir = "themes"theme = "my-theme"
+baseURL = "/hugo-website"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
